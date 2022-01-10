@@ -26,13 +26,14 @@ function Home() {
             </Link>
           </div>
 
-          <div className="image-wrapper"></div>
-          <img
-            src="/PlantFace.png"
-            className="portfolio-image"
-            width={350}
-            height={400}
-          />
+          <div className="image-wrapper">
+            <img
+              src="/PlantFace.png"
+              className="portfolio-image"
+              width={350}
+              height={400}
+            />
+          </div>
         </div>
       </section>
     </>
