@@ -18,12 +18,18 @@ function Contact() {
               Contact
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor.
+              If you have an interesting idea and want to collaborate you can
+              reach me through:
             </p>
             <ul className="contact-links">
-              <li className="contact-item">Email: lutfhi@me.com</li>
-              <li className="contact-item">Phone: +6212344321007</li>
+              <li className="contact-item">
+                Email: oliverakostadinoska@gmail.com
+              </li>
+              <li className="contact-item">
+                <Link href="https://github.com/OKostadinoska">
+                  <a>Github</a>
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
